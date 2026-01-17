@@ -63,6 +63,8 @@
 
 <img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/ca9cbe28-ab94-4d50-9eaf-a470a31ccf6c" />
 
+注：开卡订单提交后，保证金系统自动退还，只扣除开卡费
+
 ## 是否有实体卡
 
 提供虚拟卡与实体卡（VISA 预付卡，支持线下刷卡、ATM 取现）。
