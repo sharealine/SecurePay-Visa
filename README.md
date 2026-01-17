@@ -18,19 +18,15 @@
 
 ## 注册主界面
 
-<img width="575" height="813" alt="zuce" src="https://github.com/user-attachments/assets/1540895f-0472-48d3-a2bd-541992ebe842" />
+<img width="1646" height="910" alt="1" src="https://github.com/user-attachments/assets/5e0601dd-c91e-4d55-9e46-54cb46138016" />
 
-<img width="2825" height="1511" alt="1" src="https://github.com/user-attachments/assets/f0324590-717f-44e9-a627-d756ec1cb0e3" />
+<img width="1628" height="900" alt="2" src="https://github.com/user-attachments/assets/b631509b-94e3-47b1-92ef-ae1476b0938a" />
 
 [注册PFC入口](https://payforcard.com/auth?invite=INV7309B065)
 
 ## 主要卡号和用途选择
 
-<img width="2802" height="1519" alt="2" src="https://github.com/user-attachments/assets/ba12e02c-1e99-429e-821c-f038bb55e86f" />
-
-## 平台什么时候建立的
-
-不早于2025年9月
+<img width="1646" height="903" alt="3" src="https://github.com/user-attachments/assets/74b36285-7a09-416d-a6e9-a33f555627de" />
 
 ## 开卡费
 
@@ -65,9 +61,8 @@
     4. 按照系统提示的转账地址完成转账操作，需在 30 分钟内完成充值。 
     5. 系统自动确认到账，确认时间约 2 分钟，超过 30 分钟未入账可联系在线客服查询。
 
-<img width="459" height="697" alt="image" src="https://github.com/user-attachments/assets/17d95675-8296-41fa-ab02-ab80d3acd026" />
+<img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/ca9cbe28-ab94-4d50-9eaf-a470a31ccf6c" />
 
-	
 ## 是否有实体卡
 
 提供虚拟卡与实体卡（VISA 预付卡，支持线下刷卡、ATM 取现）。
