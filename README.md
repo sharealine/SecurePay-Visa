@@ -65,6 +65,10 @@
 
 注：开卡订单提交后，保证金系统自动退还，只扣除开卡费
 
+<img width="1640" height="821" alt="5" src="https://github.com/user-attachments/assets/fb8d8bc6-66eb-455b-a647-88505c16ed99" />
+
+开卡成功后，即可消费。
+
 ## 是否有实体卡
 
 提供虚拟卡与实体卡（VISA 预付卡，支持线下刷卡、ATM 取现）。
