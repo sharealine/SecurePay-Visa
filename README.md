@@ -63,7 +63,7 @@
 
 <img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/ca9cbe28-ab94-4d50-9eaf-a470a31ccf6c" />
 
-注：开卡订单提交后，保证金系统自动退还，只扣除开卡费
+注：开卡订单提交后，保证金系统自动退还，只扣除开卡费。
 
 <img width="1640" height="821" alt="5" src="https://github.com/user-attachments/assets/fb8d8bc6-66eb-455b-a647-88505c16ed99" />
 
