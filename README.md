@@ -5,7 +5,7 @@
 ## 使用用途
 虚拟信用卡广泛应用于多个领域，包括旅游预订、海淘购物、游戏充值、注册和绑定海外账号（如美区PayPal、Amazon、eBay）、广告费用扣款（如Facebook、Google、TikTok）、电商平台租金扣费、电商工具免费试用等。
 
-常见的虚拟信用卡充值和服务开通平台包括ChatGPT、Open AI、AppStore、Twitter、Netflix、Disney、HBO Max、Hulu、Etsy、Fiverr、Google Play、Midjourney、Facebook、Google、Amazon、PayPal、Shopify、TikTok、Alibaba、AliExpress、OnlyFans等。
+常见的虚拟信用卡充值和服务开通平台包括ChatGPT、Open AI、AppStore、Twitter、Netflix、Disney、HBO Max、Hulu、Etsy、Fiverr、Google Play、Gemini、Facebook、Google、Amazon、PayPal、Shopify、TikTok、Alibaba、AliExpress、OnlyFans等。
 
 虚拟信用卡具有以下优势：
 
@@ -56,14 +56,14 @@
 ## 充值方法
 
     1. 登录PayforCard账号后，进入首页面，点击 “充值” 按钮。 
-    2. 输入充值金额（需满足最低 100 U 的要求，开卡需100U保证金）。 
+    2. 输入充值金额（需满足最低10U的要求，开卡需10U保证金）。 
     3. 选择支付方式（目前仅支持 USDT（TRC20）转账）。 
     4. 按照系统提示的转账地址完成转账操作，需在 30 分钟内完成充值。 
     5. 系统自动确认到账，确认时间约 2 分钟，超过 30 分钟未入账可联系在线客服查询。
 
 <img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/ca9cbe28-ab94-4d50-9eaf-a470a31ccf6c" />
 
-注：开卡订单提交后，保证金系统自动退还，只扣除开卡费
+
 
 <img width="1640" height="821" alt="5" src="https://github.com/user-attachments/assets/fb8d8bc6-66eb-455b-a647-88505c16ed99" />
 
