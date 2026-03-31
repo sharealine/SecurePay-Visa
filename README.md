@@ -18,15 +18,15 @@
 
 ## 注册主界面
 
-<img width="1646" height="910" alt="1" src="https://github.com/user-attachments/assets/5e0601dd-c91e-4d55-9e46-54cb46138016" />
+<img width   宽度="1646" height="910" alt="1" src="https://github.com/user-attachments/assets/5e0601dd-c91e-4d55-9e46-54cb46138016" /><img width   宽度="1646" height="910" alt="1" src="https://github.com/user-attachments/assets/5e0601dd-c91e-4d55-9e46-54cb46138016" />
 
-<img width="1628" height="900" alt="2" src="https://github.com/user-attachments/assets/b631509b-94e3-47b1-92ef-ae1476b0938a" /><img width="1628" height="900" alt="2" src="https://github.com/user-attachments/assets/b631509b-94e3-47b1-92ef-ae1476b0938a" />
+<img width="1628" height="900" alt="2" src="https://github.com/user-attachments/assets/b631509b-94e3-47b1-92ef-ae1476b0938a" /><img width="1628" height="900" alt="2" src="https://github.com/user-attachments/assets/b631509b-94e3-47b1-92ef-ae1476b0938a" /><img width   宽度="1628" height="900" alt="2" src="https://github.com/user-attachments/assets/b631509b-94e3-47b1-92ef-ae1476b0938a" /><img width   宽度="1628" height="900" alt="2" src="https://github.com/user-attachments/assets/b631509b-94e3-47b1-92ef-ae1476b0938a" />
 
 [注册PFC入口](https://payforcard.com/auth?invite=INV7309B065)
 
 ## 主要卡号和用途选择
 
-<img width="1646" height="903" alt="3" src="https://github.com/user-attachments/assets/74b36285-7a09-416d-a6e9-a33f555627de" /><img width="1646" height="903" alt="3" src="https://github.com/user-attachments/assets/74b36285-7a09-416d-a6e9-a33f555627de" />
+<img width="1646" height="903" alt="3" src="https://github.com/user-attachments/assets/74b36285-7a09-416d-a6e9-a33f555627de" /><img width="1646" height="903" alt="3" src="https://github.com/user-attachments/assets/74b36285-7a09-416d-a6e9-a33f555627de" /><img width   宽度="1646" height="903" alt="3" src="https://github.com/user-attachments/assets/74b36285-7a09-416d-a6e9-a33f555627de" /><img width   宽度="1646" height="903" alt="3" src="https://github.com/user-attachments/assets/74b36285-7a09-416d-a6e9-a33f555627de" />
 
 ## 开卡费
 
@@ -61,17 +61,17 @@
     4. 按照系统提示的转账地址完成转账操作，需在 30 分钟内完成充值。 
     5. 系统自动确认到账，确认时间约 2 分钟，超过 30 分钟未入账可联系在线客服查询。
 
-<img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/ca9cbe28-ab94-4d50-9eaf-a470a31ccf6c" />
+<img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/ca9cbe28-ab94-4d50-9eaf-a470a31ccf6c" /><img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/ca9cbe28-ab94-4d50-9eaf-a470a31ccf6c" />
 
 
 
-<img width="1640" height="821" alt="5" src="https://github.com/user-attachments/assets/fb8d8bc6-66eb-455b-a647-88505c16ed99" />
+<img width="1640" height="821" alt="5" src="https://github.com/user-attachments/assets/fb8d8bc6-66eb-455b-a647-88505c16ed99" /><img width   宽度="1640" height="821" alt="5" src="https://github.com/user-attachments/assets/fb8d8bc6-66eb-455b-a647-88505c16ed99" />
 
 开卡成功后，即可消费。
 
 ## 是否有实体卡
 
-提供虚拟卡与实体卡（VISA 预付卡，支持线下刷卡、ATM 取现）
+提供虚拟卡与实体卡（VISA 预付卡，支持线下刷卡、ATM 取现）。
 
 ## 特色亮点
 
@@ -84,6 +84,6 @@
 
 ## 注册入口
 
-[PFC](https://payforcard.com/auth?invite=INV7309B065)
+[PFC](https://payforcard.com/auth?invite=INV7309B065)(PFC) (https://payforcard.com/auth?invite=INV7309B065)
 
 
