@@ -66,7 +66,7 @@
 
 <img width="1640" height="821" alt="5" src="https://github.com/user-attachments/assets/225e1f01-f63d-418f-abda-cb2d12340d91" />
 
-开卡成功后，即可消费。
+开卡成功后，即可消费
 
 ## 是否有实体卡
 
