@@ -83,13 +83,6 @@ PFC具有以下优势：
 
 <img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/4bfce35a-4a03-4a38-89eb-42de438861a3" />
 
-## 实际使用体验
-最让我觉得方便的是，PayforCard的虚拟卡可以直接绑定到Apple Pay和Google Pay。这意味着你不需要每次都输入卡号信息，用手机轻触就能完成支付。
-
-我试着把卡绑定到Apple Pay，整个过程大概就2分钟。打开Wallet应用，点击添加卡片，输入卡号、有效期、CVV，然后通过平台进行验证，就完成了。之后在支持Apple Pay的商家消费，直接用Face ID或Touch ID确认就行。
-
-<img width="1640" height="821" alt="5" src="https://github.com/user-attachments/assets/225e1f01-f63d-418f-abda-cb2d12340d91" />
-
 
 ## 一些使用建议
 根据实际使用经验，我总结了几个小技巧：
@@ -104,6 +97,7 @@ PFC具有以下优势：
 
     5，定期查看交易记录。PayforCard可以实时显示每笔交易的详细信息，包括商户名称、消费金额、手续费等。
 
+<img width="1640" height="821" alt="5" src="https://github.com/user-attachments/assets/225e1f01-f63d-418f-abda-cb2d12340d91" />
 
 
 ## 特色亮点
