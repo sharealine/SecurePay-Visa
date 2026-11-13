@@ -10,11 +10,12 @@
 
 ## 注册主界面
 
-<img width="1646" height="910" alt="1" src="https://github.com/user-attachments/assets/f233abf8-035c-4b2f-94bc-1b6181e29217" />
+<img width="2841" height="1511" alt="1" src="https://github.com/user-attachments/assets/fc60f43b-0c1b-4478-9982-0884b00076a9" />
 
-<img width="1628" height="900" alt="2" src="https://github.com/user-attachments/assets/fd3ab3cc-ee1a-4096-8916-7611c55746dd" />
+<img width="2847" height="1498" alt="2" src="https://github.com/user-attachments/assets/a669af1c-aa4c-4d45-8f81-9071068da810" />
 
-PFC具有以下优势：
+
+suocard具有以下优势：
 
     1，无需审核资质，注册快捷方便。
 
@@ -29,24 +30,25 @@ PFC具有以下优势：
     6，支持设置一次性使用，提高安全性。
 
 
-[👉 点击注册PFC](https://payforcard.com/auth?invite=INV7309B065)
+[👉 点击注册Suocard](https://suocard.com/auth?invite=INVFD6284D2)
 
 
 ## 主要卡号和用途选择
 
-<img width="1646" height="903" alt="3" src="https://github.com/user-attachments/assets/f60154e6-aecb-4a04-901b-de622aafb2f9" />
+<img width="2842" height="1476" alt="3" src="https://github.com/user-attachments/assets/13136149-dfd3-43af-acdd-e8a965798785" />
+
 
 ## 开卡费
 
 平台推出三种不同类型的虚拟卡，开卡费及相关套餐信息如下： 
 
-标准卡3.99U,铂金卡 12U,至尊卡 18.88U
+标准卡 3U,铂金卡 20U,至尊卡 50U
 
 注：不同网页披露的铂金卡、至尊卡开卡费略有差异。
 
 ## 充值费率（综合）
 
-充值费率2%，至尊卡充值费率低至1%。 此外，用户需充值兑换平台的USD，每笔只扣3U。
+充值费率2%，至尊卡充值费率低至1%。 此外，用户需充值兑换平台的USD，每笔只扣1U。
 
 ## 卡头（适用场景）
 
@@ -69,9 +71,9 @@ PFC具有以下优势：
 
 ## 充值方法
 
-    1， 登录PayforCard账号后，进入首页面，点击 “充值” 按钮。 
+    1， 登录Suocard账号后，进入首页面，点击 “充值” 按钮。 
     
-    2， 输入充值金额（需满足最低100U的要求，开卡至低需50U保证金）。
+    2， 输入充值金额（需满足最低20U的要求，开卡至低需10U余存）。
     
     3， 选择支付方式（目前仅支持 USDT（TRC20）转账）。 
     
@@ -81,7 +83,7 @@ PFC具有以下优势：
     
     6， 充值成功后，即可兑换USD购买你所需要的虚拟卡号。
 
-<img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/4bfce35a-4a03-4a38-89eb-42de438861a3" />
+
 
 
 ## 一些使用建议
@@ -95,9 +97,10 @@ PFC具有以下优势：
 
     4，不要用于高风险交易。虽然平台有风控系统，但如果被检测到可疑交易，账户可能会被暂时冻结。
 
-    5，定期查看交易记录。PayforCard可以实时显示每笔交易的详细信息，包括商户名称、消费金额、手续费等。
+    5，定期查看交易记录。Suocard可以实时显示每笔交易的详细信息，包括商户名称、消费金额、手续费等。
 
-<img width="1640" height="821" alt="5" src="https://github.com/user-attachments/assets/225e1f01-f63d-418f-abda-cb2d12340d91" />
+<img width="2830" height="962" alt="5" src="https://github.com/user-attachments/assets/8b17c5dc-14e4-4f70-8b99-616ac3642ff4" />
+
 
 
 ## 特色亮点
@@ -118,5 +121,5 @@ PFC具有以下优势：
 ## 注册入口
 
 
-[👉 注册PFC](https://payforcard.com/auth?invite=INV7309B065)
+[👉 注册Suocard](https://suocard.com/auth?invite=INVFD6284D2)
 
