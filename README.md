@@ -7,7 +7,6 @@
 
 常见的虚拟信用卡充值和服务开通平台包括ChatGPT、Open AI、AppStore、Twitter、Netflix、Disney、HBO Max、Hulu、Etsy、Fiverr、Google Play、Gemini、Facebook、Google、Amazon、PayPal、Shopify、TikTok、Alibaba、AliExpress、OnlyFans等。
 
-
 ## 注册主界面
 
 <img width="2841" height="1511" alt="1" src="https://github.com/user-attachments/assets/fc60f43b-0c1b-4478-9982-0884b00076a9" />
