@@ -30,7 +30,7 @@ suocard具有以下优势：
     6，支持设置一次性使用，提高安全性。
 
 
-[👉 点击注册Suocard](https://suocard.com/auth?invite=INVFD6284D2)
+[👉 点击注册Suocard](https://suocard.com/?ref=299861)
 
 
 ## 主要卡号和用途选择
@@ -121,5 +121,5 @@ suocard具有以下优势：
 ## 注册入口
 
 
-[👉 注册Suocard](https://suocard.com/auth?invite=INVFD6284D2)
+[👉 注册Suocard](https://suocard.com/?ref=299861)
 
