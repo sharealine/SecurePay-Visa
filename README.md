@@ -9,9 +9,9 @@
 
 ## 注册主界面
 
-<img width="2841" height="1511" alt="1" src="https://github.com/user-attachments/assets/fc60f43b-0c1b-4478-9982-0884b00076a9" />
+<img width="1672" height="904" alt="1" src="https://github.com/user-attachments/assets/2245db07-b4c1-4673-867d-395ed7e3044c" />
 
-<img width="2847" height="1498" alt="2" src="https://github.com/user-attachments/assets/a669af1c-aa4c-4d45-8f81-9071068da810" />
+<img width="1659" height="541" alt="2" src="https://github.com/user-attachments/assets/227fcbf1-c161-411a-9f8b-f342cf05540e" />
 
 
 suocard具有以下优势：
@@ -29,25 +29,20 @@ suocard具有以下优势：
     6，支持设置一次性使用，提高安全性。
 
 
-[👉 点击注册Suocard](https://suocard.com/?ref=299861)
+[👉 点击注册Suocard](https://suocard.com/?ref=207470603106811697)
 
 
 ## 主要卡号和用途选择
 
-<img width="2842" height="1476" alt="3" src="https://github.com/user-attachments/assets/13136149-dfd3-43af-acdd-e8a965798785" />
+<img width="1653" height="893" alt="3" src="https://github.com/user-attachments/assets/fd3cfd67-7e94-440a-be8b-8d5ec461dd1e" />
 
-
-## 开卡费
-
-平台推出三种不同类型的虚拟卡，开卡费及相关套餐信息如下： 
-
-标准卡 3U,铂金卡 20U,至尊卡 50U
-
-注：不同网页披露的铂金卡、至尊卡开卡费略有差异。
 
 ## 充值费率（综合）
 
-充值费率2%，至尊卡充值费率低至1%。 此外，用户需充值兑换平台的USD，每笔只扣1U。
+<img width="571" height="788" alt="4" src="https://github.com/user-attachments/assets/cf73075a-58df-4012-b75f-b176c2d19c4f" />
+
+
+开卡费只需 3 U, 充值费率 2 %, 0 月。 此外，用户需充值兑换平台的USD，每笔只扣 0.2 U。注：需要预存 10 U
 
 ## 卡头（适用场景）
 
@@ -114,11 +109,12 @@ suocard具有以下优势：
     
     5， 支持 USDT 充值：适配虚拟货币充值需求，为有 USDT 支付习惯的用户提供便捷选择。 
     
-    6， 邀请好友注册还获得好友消费金额10%的返佣。
+    6， 邀请好友注册还获得好友消费金额30%的返佣。
+<img width="1654" height="898" alt="5" src="https://github.com/user-attachments/assets/2b3f50e0-6b46-4a23-9821-33fd2a1ca069" />
 
 
 ## 注册入口
 
 
-[👉 注册Suocard](https://suocard.com/?ref=299861)
+[👉 注册Suocard](https://suocard.com/?ref=207470603106811697)
 
